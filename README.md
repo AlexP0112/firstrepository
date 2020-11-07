@@ -1,2 +1,2 @@
-# firstrepository
+# array-sorting-algorithms
 descriere
